@@ -315,7 +315,8 @@ class Homepage extends Component {
     }
 
     render() {
-        console.log('[Homepage] render:-', this.state)
+        console.log('[Homepage] render:-', this.state);
+	console.log('Vaibhav Gera');
         let links;
         if (localStorage.getItem('token') && this.props.location.pathname !== '/personal') {
             links = (
