@@ -1,0 +1,30 @@
+.displayTags{
+    
+    
+    margin:5px;
+    width: 30%;
+    
+   
+  
+  
+}
+
+.select{
+    margin:10px;
+    
+}
+
+.button{
+    background-color: #008CBA;
+    border-radius: 4px;
+    padding: 5px 5px;
+    
+   
+}
+
+.invalid{
+    border: 1px solid red;
+    background-color:  salmon;
+
+}
+

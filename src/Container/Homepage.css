@@ -1,0 +1,26 @@
+
+.a{
+    display: inline;
+    margin: 10px;
+
+    
+}
+
+.right{
+    float:right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.mainStreamImage{
+    display:inline-block;
+    margin: 30px
+}
+.center{
+   margin-bottom:100px;
+}
+
+.mainStreamText{
+    display: inline-block;
+    top: -50px
+}
